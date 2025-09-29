@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Auth and account flows are intentionally excluded from indexing
+Disallow: /sign-in
+Disallow: /sign-up
+Disallow: /forgot-password
+Disallow: /reset-password
+Disallow: /example-protected-route
+
+Sitemap: https://imagine-ai.omsharma.xyz/sitemap.xml

@@ -1,0 +1,16 @@
+# Updated 2026-03-19
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+count.txt
+.env
+.nitro
+.tanstack
+.output
+.vinxi
+.vercel
+todos.json
+.eslintcache
+package-lock.json
