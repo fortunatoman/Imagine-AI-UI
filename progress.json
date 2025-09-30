@@ -107,6 +107,10 @@
     {
       "date": "2025-09-30T09:42:00",
       "message": "feat: add product variants (size, color, etc.)"
+    },
+    {
+      "date": "2025-09-30T09:42:00",
+      "message": "feat: implement product bulk import from CSV"
     }
   ],
   "last_commit_date": "2025-09-30T09:42:00"
