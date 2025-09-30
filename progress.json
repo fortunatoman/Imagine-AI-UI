@@ -43,6 +43,10 @@
     {
       "date": "2025-09-30T09:42:00",
       "message": "feat(users): implement admin update user roles"
+    },
+    {
+      "date": "2025-09-30T09:42:00",
+      "message": "feat(users): add admin ban/unban user functionality"
     }
   ],
   "last_commit_date": "2025-09-30T09:42:00"
