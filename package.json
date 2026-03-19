@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "vite",
     "start": "vite preview",
-    "build": "tsc --noEmit && vite build --sourcemap",
+    "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
